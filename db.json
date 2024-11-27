@@ -1,9 +1,6 @@
 [
   {
       "numeroSessao": 24,
-      "titulo": "Sessão - Tribunal do Pleno",
-      "local": "TCE-PR Sala de Evento 01 - 10h00",
-      "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
-      "dataSessao": "2024-12-05T09:00:00",      
+      "titulo": "Sessão - Tribunal do Pleno",     
   }
 ]
