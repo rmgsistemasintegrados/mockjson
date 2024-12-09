@@ -1,39 +1,9 @@
-{
-  "sessoes": [
-    {
-      "numeroSessao": 24,
-      "titulo": "Sessão - Tribunal do Pleno",
-      "local": "TCE-PR Sala de Evento 01 - 10h00",
-      "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
-      "dataSessao": "2024-12-05T09:00:00"
-    },
-    {
-      "numeroSessao": 23,
-      "titulo": "Sessão - Tribunal do Pleno",
-      "local": "TCE-PR Sala de Evento 02 - 13h00",
-      "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
-      "dataSessao": "2024-11-12T13:00:00"
-    },
-    {
-      "numeroSessao": 22,
-      "titulo": "Sessão - Tribunal do Pleno",
-      "local": "TCE-PR Sala de Evento 01 - 13h00",
-      "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
-      "dataSessao": "2024-11-11T09:00:00"
-    },
-    {
-    "numeroSessao": 21,
-    "titulo": "Sessão - Tribunal do Pleno",
-    "local": "TCE-PR Sala de Evento 01 - 07h00",
-    "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
-    "dataSessao": "2024-11-11T09:00:00"
-    },
-    {
-      "numeroSessao": 20,
-      "titulo": "Sessão - Tribunal do Pleno",
-      "local": "TCE-PR Sala de Evento 01 - 09h00",
-      "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
-      "dataSessao": "2024-10-31T09:00:00"
+[
+  {
+    "id": 1,
+    "municipio": "Curitiba",
+    "ano_base": 2024,
+    "itp_prefeitura": 39.5,
+    "itp_camara": 21
     }
-  ]
-}
+]
