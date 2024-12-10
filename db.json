@@ -1,31 +1,25 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+  "id": 1,
+  "municipio": "Curitiba",
+  "ano_base": 2024,
+  "itp_prefeitura": 39.5,
+  "itp_camara": 21,
+  "despesas": {
+    "prefeitura": {
+      "indice": 50.51,
+      "nivel": "Alerta 90%"
     },
-    {
-      "id": 2,
-      "title": "Post 2"
+    "camara": {
+      "indice": 1.95,
+      "nivel": "Cumpre"
     },
-    {
-      "id": 3,
-      "title": "Post 3"
+    "saude": {
+      "indice": 32.68,
+      "nivel": "Cumpre "
+    },
+    "educacao": {
+      "indice": 26.19,
+      "nivel": "Cumpre"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
