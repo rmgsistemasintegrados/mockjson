@@ -1,9 +1,39 @@
-[
-  {
-      "numeroSessao": 24,
-      "titulo": "Sessão - Tribunal do Pleno",
-      "local": "TCE-PR Sala de Evento 01 - 10h00",
-      "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf",
-      "dataSessao": "2024-12-05T09:00:00"
-  }
-]
+{
+  "status": "success",
+  "message": "Dados obtidos com sucesso",
+  "data": [
+    {
+      "id": 1,
+      "municipio": "Curitiba",
+      "ano_base": 2024,
+      "itp_prefeitura": 39.5,
+      "itp_camara": 21,
+      "resultados": {
+        "educacao": 4.66,
+        "saude": 4.88,
+        "assistencia_social": 2.96,
+        "administracao_financeira": 2.56,
+        "previdencia": 2.56,
+        "transparencia": 8.9
+      },
+      "despesas": {
+        "prefeitura": {
+          "indice": 50.51,
+          "nivel": "Alerta 90%"
+        },
+        "camara": {
+          "indice": 1.95,
+          "nivel": "Cumpre"
+        },
+        "saude": {
+          "indice": 32.68,
+          "nivel": "Cumpre"
+        },
+        "educacao": {
+          "indice": 26.19,
+          "nivel": "Cumpre"
+        }
+      }
+    }
+  ]
+}
