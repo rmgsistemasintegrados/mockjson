@@ -1,31 +1,7 @@
 {
-  "status": "success",
-  "message": "Dados obtidos com sucesso",
-  "data": [
-    {
-      "id": 1,
-      "municipio": "Curitiba",
-      "ano_base": 2024,
-      "itp_prefeitura": 39.5,
-      "itp_camara": 21,
-      "despesas": {
-        "prefeitura": {
-          "indice": 50.51,
-          "nivel": "Alerta 90%"
-        },
-        "camara": {
-          "indice": 1.95,
-          "nivel": "Cumpre"
-        },
-        "saude": {
-          "indice": 32.68,
-          "nivel": "Cumpre"
-        },
-        "educacao": {
-          "indice": 26.19,
-          "nivel": "Cumpre"
-        }
-      }
-    }
-  ]
+  "id": 1,
+  "name": "Ervin Howell",
+  "username": "Antonette",
+  "email": "Shanna@melissa.tv",
+  "phone": "010-692-6593 x09125"
 }
