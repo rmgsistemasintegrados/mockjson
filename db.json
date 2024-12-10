@@ -1,7 +1,6 @@
 {
   "id": 1,
   "municipio": "Curitiba",
-  "ano_base": 2024,
   "itp_prefeitura": 39.5,
   "itp_camara": 21,
   "despesas": {
@@ -11,14 +10,6 @@
     },
     "camara": {
       "indice": 1.95,
-      "nivel": "Cumpre"
-    },
-    "saude": {
-      "indice": 32.68,
-      "nivel": "Cumpre "
-    },
-    "educacao": {
-      "indice": 26.19,
       "nivel": "Cumpre"
     }
   }
