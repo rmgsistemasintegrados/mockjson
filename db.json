@@ -2,15 +2,5 @@
   "id": 1,
   "municipio": "Curitiba",
   "itp_prefeitura": 39.5,
-  "itp_camara": 21,
-  "despesas": {
-    "prefeitura": {
-      "indice": 50.51,
-      "nivel": "Alerta 90%"
-    },
-    "camara": {
-      "indice": 1.95,
-      "nivel": "Cumpre"
-    }
-  }
+  "itp_camara": 21
 }
