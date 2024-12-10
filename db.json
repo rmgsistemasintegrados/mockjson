@@ -1,35 +1,9 @@
 {
-    "numeroSessao": 24,
-    "titulo": "Sessão - Tribunal do Pleno",
-    "local": "TCE-PR Sala de Evento 01 - 10h00",
-    "dataSessao": "2024-12-05T09:00:00",
-    "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf"
-  },
-  {
-    "numeroSessao": 23,
-    "titulo": "Sessão - Tribunal do Pleno",
-    "local": "TCE-PR Sala de Evento 02 - 13h00",
-    "dataSessao": "2024-11-12T13:00:00",
-    "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf"
-  },
-  {
-    "numeroSessao": 22,
-    "titulo": "Sessão - Tribunal do Pleno",
-    "local": "TCE-PR Sala de Evento 01 - 13h00",
-    "dataSessao": "2024-11-11T09:00:00",
-    "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf"
-  },
-  {
-    "numeroSessao": 21,
-    "titulo": "Sessão - Tribunal do Pleno",
-    "local": "TCE-PR Sala de Evento 01 - 07h00",
-    "dataSessao": "2024-11-11T09:00:00",
-    "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf"
-  },
-  {
-    "numeroSessao": 20,
-    "titulo": "Sessão - Tribunal do Pleno",
-    "local": "TCE-PR Sala de Evento 01 - 09h00",
-    "dataSessao": "2024-10-31T09:00:00",
-    "urlPautaJulgamento": "https://www1.tce.pr.gov.br/multimidia/2024/10/pdf/00390270.pdf"
-  }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+    "name": "typicode"
+}
