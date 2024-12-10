@@ -8,14 +8,6 @@
       "ano_base": 2024,
       "itp_prefeitura": 39.5,
       "itp_camara": 21,
-      "resultados": {
-        "educacao": 4.66,
-        "saude": 4.88,
-        "assistencia_social": 2.96,
-        "administracao_financeira": 2.56,
-        "previdencia": 2.56,
-        "transparencia": 8.9
-      },
       "despesas": {
         "prefeitura": {
           "indice": 50.51,
